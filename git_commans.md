@@ -19,3 +19,5 @@ git commit: Este comando se usa para capturar una instantánea de los cambios pr
 git push: Este comando se usa para cargar contenido del repositorio local a un repositorio remoto.
 
 git merge: Este comando se usa para tomar las líneas independientes de desarrollo creadas por git branch e integrarlas en una sola rama.
+
+Ejercicio de ramas
